@@ -1,0 +1,74 @@
+/*CSS Document*/
+
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+body
+{
+	background-image: url('../images/nature5.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+#navbar
+{
+	width: fill;
+	height:70px;
+	background-color: #0483CB;
+}
+
+#page
+{
+	width: 68vw;
+	height: 74vw;
+	background-color:#E9E9E9;
+	margin: 0 auto;
+}
+
+.navli
+{
+	float: left;
+	list-style: none;
+	text-decoration: none;
+	margin-left: 30px;
+	line-height: 70px;  
+}
+
+.nava
+{
+	text-decoration: none;
+	color: #FC7B04;
+}
+
+.nava:hover
+{
+	text-decoration: none;
+	color: #C5234C;
+}
+
+.navar
+{
+	text-decoration: none;
+	color: #C5234C;
+}
+
+.navar:hover
+{
+	text-decoration: none;
+	color: #5B0C8B;
+}
+
+
+.lnavli
+{
+	float: left;
+}
+
+.logo
+{
+	height: 70px;
+	width: 350px;
+}
